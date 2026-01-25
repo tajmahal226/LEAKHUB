@@ -23,7 +23,7 @@
   "author": "Elder Plinius",
   "license": "MIT",
   "devDependencies": {
-    "vite": "^4.4.9",
+    "vite": "^5.4.21",
     "eslint": "^8.48.0",
     "prettier": "^3.0.3"
   },
